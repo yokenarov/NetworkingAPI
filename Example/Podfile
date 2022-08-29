@@ -1,0 +1,6 @@
+use_frameworks!
+target 'NetworkingAPI_Tests' do
+  pod 'NetworkingAPI', :path => '../'
+  
+  
+end
