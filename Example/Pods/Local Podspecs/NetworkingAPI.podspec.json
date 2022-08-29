@@ -1,0 +1,22 @@
+{
+  "name": "NetworkingAPI",
+  "version": "0.1.0",
+  "summary": "A short description of NetworkingAPI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yokenarov@icloud.com/NetworkingAPI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yokenarov@icloud.com": "yokenarov@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/yokenarov@icloud.com/NetworkingAPI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NetworkingAPI/Classes/**/*"
+}
